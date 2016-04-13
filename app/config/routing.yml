@@ -1,0 +1,5 @@
+quote:
+    resource: "@QuoteBundle/Controller/"
+    type:     annotation
+    prefix:   /
+
